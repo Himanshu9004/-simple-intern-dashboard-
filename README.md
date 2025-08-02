@@ -44,14 +44,8 @@ This entire project was structured and built with the help of **ChatGPT**, used 
 ![Leaderboard Screenshot](<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/c37d20ff-2780-437f-a807-47173fd3ca6e" />
 )
 
-> 📝 Place your screenshots in the `/screenshots` folder.
-
----
 
 ## 📁 Folder Structure
-
-
-
 ntern-dashboard/
 ├── index.html # Login Page
 ├── dashboard.html # Dashboard
