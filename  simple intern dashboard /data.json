@@ -1,0 +1,11 @@
+{
+  "name": "Jane Doe",
+  "referralCode": "janedoe2025",
+  "donations": 1200,
+  "rewards": ["Bronze Badge", "Free T-Shirt"],
+  "leaderboard": [
+    { "name": "Jane", "donations": 1200, "referral": "janedoe2025" },
+    { "name": "Alex", "donations": 1100, "referral": "alex2025" },
+    { "name": "Sam", "donations": 950, "referral": "sam2025" }
+  ]
+}

@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  padding: 20px;
+}
+.container {
+  background: white;
+  padding: 20px;
+  border-radius: 6px;
+  max-width: 400px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+input, button {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+td, th {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
