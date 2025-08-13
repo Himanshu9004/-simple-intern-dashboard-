@@ -22,7 +22,7 @@ This entire project was structured and built with the help of **ChatGPT**, used 
 - 🔐 Dummy Login Page (no actual auth)
 - 📊 Dashboard with:
   - Intern name
-  - Referral code (like `yourname2025`)
+  - Referral code (like `himanshu2025`)
   - Total donations raised (dummy data)
   - Static unlockable rewards (e.g., badges, shirts)
 - 🏆 Leaderboard showing top referrals (static/dummy backend)
